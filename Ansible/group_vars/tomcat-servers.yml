@@ -1,0 +1,9 @@
+# Variavel relacionada a instalacao do tomcat
+
+http_port: 8080
+https_port: 8443
+
+# Configuracao do usuario de adm:
+
+admin_username: admin
+admin_password: adminsecret
